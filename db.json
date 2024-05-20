@@ -37,7 +37,7 @@
       "date": "2023-12-30 02:14:12",
       "clicks": 101,
       "images": {
-        "card": "../../../public/image/01.png",
+        "card": "https://i.ibb.co/J2sJ4C1/01.png",
         "largeSecondImage": "../../../public/image/largeImages/137.jpg",
         "customSecondImage": "../../../public/image/customImages/137.jpg"
       },
