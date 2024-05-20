@@ -17,7 +17,7 @@
       "images": {
         "card": "https://i.ibb.co/2kNXV67/02.png",
         "largeSecondImage": "../../../public/image/largeImages/135.jpg",
-        "customSecondImage": "../../../public/image/customImages/135.jpg"
+        "customSecondImage": "https://i.ibb.co/7yNpnvR/135.jpg"
       },
       "categories": [
         "series"
@@ -39,7 +39,7 @@
       "images": {
         "card": "https://i.ibb.co/J2sJ4C1/01.png",
         "largeSecondImage": "../../../public/image/largeImages/137.jpg",
-        "customSecondImage": "../../../public/image/customImages/137.jpg"
+        "customSecondImage": "https://i.ibb.co/mtwT7RL/137.jpg"
       },
       "categories": [
         "animes"
@@ -61,7 +61,7 @@
       "images": {
         "card": "https://i.ibb.co/brTJqZ8/146.jpg",
         "largeSecondImage": "../../../public/image/largeImages/138.jpg",
-        "customSecondImage": "../../../public/image/customImages/138.jpg"
+        "customSecondImage": "https://i.ibb.co/DDC9jyk/138.jpg"
       },
       "categories": [
         "games"
@@ -84,7 +84,7 @@
       "images": {
         "card": "https://i.ibb.co/vHTHgPy/16.png",
         "largeSecondImage": "../../../public/image/largeImages/12.png",
-        "customSecondImage": "../../../public/image/customImages/12.png"
+        "customSecondImage": "https://i.ibb.co/0cCqdkJ/12.jpg"
       },
       "categories": [
         "animes"
@@ -109,7 +109,7 @@
       "images": {
         "card": "https://i.ibb.co/t8HDG6B/15.png",
         "largeSecondImage": "../../../public/image/largeImages/139.jpg",
-        "customSecondImage": "../../../public/image/customImages/139.jpg"
+        "customSecondImage": "https://i.ibb.co/Tqbjpc5/139.jpg"
       },
       "categories": [
         "movies"
@@ -133,7 +133,7 @@
       "images": {
         "card": "https://i.ibb.co/jh7Xvnt/09.png",
         "largeSecondImage": "../../../public/image/largeImages/140.jpg",
-        "customSecondImage": "../../../public/image/customImages/140.jpg"
+        "customSecondImage": "https://i.ibb.co/BZ1St71/140.jpg"
       },
       "categories": [
         "games"
@@ -156,7 +156,7 @@
       "images": {
         "card": "https://i.ibb.co/ryBDtSv/05.png",
         "largeSecondImage": "../../../public/image/largeImages/141.jpg",
-        "customSecondImage": "../../../public/image/customImages/141.jpg"
+        "customSecondImage": "https://i.ibb.co/JpBWCky/141.jpg"
       },
       "categories": [
         "movies"
@@ -179,7 +179,7 @@
       "images": {
         "card": "https://i.ibb.co/kQmpH8n/14.png",
         "largeSecondImage": "../../../public/image/largeImages/136.jpg",
-        "customSecondImage": "../../../public/image/customImages/136.jpg"
+        "customSecondImage": "https://i.ibb.co/J3GBM9T/136.jpg"
       },
       "categories": [
         "series"
@@ -201,7 +201,7 @@
       "images": {
         "card": "https://i.ibb.co/Bsr4vNt/17.png",
         "largeSecondImage": "../../../public/image/largeImages/18.png",
-        "customSecondImage": "../../../public/image/customImages/18.png"
+        "customSecondImage": "https://i.ibb.co/qnx06hn/18.jpg"
       },
       "categories": [
         "animes",
@@ -225,7 +225,7 @@
       "images": {
         "card": "https://i.ibb.co/dgpnVrz/10.png",
         "largeSecondImage": "../../../public/image/largeImages/142.jpg",
-        "customSecondImage": "../../../public/image/customImages/142.jpg"
+        "customSecondImage": "https://i.ibb.co/DKWP6T7/142.png"
       },
       "categories": [
         "games"
@@ -247,7 +247,7 @@
       "images": {
         "card": "https://i.ibb.co/pzYGrW5/19.png",
         "largeSecondImage": "../../../public/image/largeImages/143.jpg",
-        "customSecondImage": "../../../public/image/customImages/143.jpg"
+        "customSecondImage": "https://i.ibb.co/GtFCGsz/143.jpg"
       },
       "categories": [
         "series"
@@ -269,7 +269,7 @@
       "images": {
         "card": "https://i.ibb.co/HKCwVTy/13.png",
         "largeSecondImage": "../../../public/image/largeImages/144.jpg",
-        "customSecondImage": "../../../public/image/customImages/144.jpg"
+        "customSecondImage": "https://i.ibb.co/0MWMr9z/144.jpg"
       },
       "categories": [
         "movies"
@@ -291,7 +291,7 @@
       "images": {
         "card": "https://i.ibb.co/sFhJ1bh/20.png",
         "largeSecondImage": "../../../public/image/largeImages/145.jpg",
-        "customSecondImage": "../../../public/image/customImages/145.jpg"
+        "customSecondImage": "https://i.ibb.co/0MRHWS6/145.jpg"
       },
       "categories": [
         "animes",
@@ -315,7 +315,7 @@
       "images": {
         "card": "https://i.ibb.co/WnCLdK8/07.png",
         "largeSecondImage": "../../../public/image/largeImages/04.png",
-        "customSecondImage": "../../../public/image/customImages/04.jpg"
+        "customSecondImage": "https://i.ibb.co/QjPDNgw/04.jpg"
       },
       "categories": [
         "games"
@@ -338,7 +338,7 @@
       "images": {
         "card": "https://i.ibb.co/648tCmr/03.png",
         "largeSecondImage": "../../../public/image/largeImages/147.jpg",
-        "customSecondImage": "../../../public/image/customImages/147.jpg"
+        "customSecondImage": "https://i.ibb.co/ZHbHdVW/147.jpg"
       },
       "categories": [
         "movies",
@@ -361,7 +361,7 @@
       "images": {
         "card": "https://i.ibb.co/zxmDR5D/06.png",
         "largeSecondImage": "../../../public/image/largeImages/148.jpg",
-        "customSecondImage": "../../../public/image/customImages/148.jpg"
+        "customSecondImage": "https://i.ibb.co/k5GMH3W/148.jpg"
       },
       "categories": [
         "movies"
@@ -383,7 +383,7 @@
       "images": {
         "card": "https://i.ibb.co/sCr86Ss/11.png",
         "largeSecondImage": "../../../public/image/largeImages/149.jpg",
-        "customSecondImage": "../../../public/image/customImages/149.jpg"
+        "customSecondImage": "https://i.ibb.co/KyxpsgT/149.jpg"
       },
       "categories": [
         "games"
@@ -408,7 +408,7 @@
       "images": {
         "card": "https://i.ibb.co/1Q3FRL4/100.jpg",
         "largeSecondImage": "../../../public/image/largeImages/101.jpg",
-        "customSecondImage": "../../../public/image/customImages/101.jpg"
+        "customSecondImage": "https://i.ibb.co/XLS3n4t/101.jpg"
       },
       "categories": [
         "animes"
@@ -432,7 +432,7 @@
       "images": {
         "card": "https://i.ibb.co/D8FtmfL/102.jpg",
         "largeSecondImage": "../../../public/image/largeImages/103.jpg",
-        "customSecondImage": "../../../public/image/customImages/103.jpg"
+        "customSecondImage": "https://i.ibb.co/J3Kvbh7/103.jpg"
       },
       "categories": [
         "animes"
@@ -455,7 +455,7 @@
       "images": {
         "card": "https://i.ibb.co/Pr4dTcX/103.jpg",
         "largeSecondImage": "../../../public/image/largeImages/104.jpg",
-        "customSecondImage": "../../../public/image/customImages/104.jpg"
+        "customSecondImage": "https://i.ibb.co/Tbh8nx5/104.jpg"
       },
       "categories": [
         "games"
@@ -479,7 +479,7 @@
       "images": {
         "card": "https://i.ibb.co/JrmVcQk/105.jpg",
         "largeSecondImage": "../../../public/image/largeImages/106.jpg",
-        "customSecondImage": "../../../public/image/customImages/106.jpg"
+        "customSecondImage": "https://i.ibb.co/smdzvMC/106.jpg"
       },
       "categories": [
         "movies"
@@ -502,7 +502,7 @@
       "images": {
         "card": "https://i.ibb.co/5GFBTHy/107.webp",
         "largeSecondImage": "../../../public/image/largeImages/108.jpg",
-        "customSecondImage": "../../../public/image/customImages/108.jpg"
+        "customSecondImage": "https://i.ibb.co/VCpyYCX/108.jpg"
       },
       "categories": [
         "movies"
@@ -529,7 +529,7 @@
       "images": {
         "card": "https://i.ibb.co/4VQ7F6R/109.png",
         "largeSecondImage": "../../../public/image/largeImages/110.jpg",
-        "customSecondImage": "../../../public/image/customImages/110.jpg"
+        "customSecondImage": "https://i.ibb.co/0YCSYwS/110.jpg"
       },
       "categories": [
         "movies"
@@ -555,7 +555,7 @@
       "images": {
         "card": "https://i.ibb.co/FhwbwdQ/112.jpg",
         "largeSecondImage": "../../../public/image/largeImages/111.jpg",
-        "customSecondImage": "../../../public/image/customImages/111.jpg"
+        "customSecondImage": "https://i.ibb.co/xqLpJp5/111.jpg"
       },
       "categories": [
         "movies"
@@ -582,7 +582,7 @@
       "images": {
         "card": "https://i.ibb.co/SsyhfLs/114.jpg",
         "largeSecondImage": "../../../public/image/largeImages/113.jpg",
-        "customSecondImage": "../../../public/image/customImages/113.jpg"
+        "customSecondImage": "https://i.ibb.co/fGfxJnk/113.jpg"
       },
       "categories": [
         "movies"
@@ -607,7 +607,7 @@
       "images": {
         "card": "https://i.ibb.co/MsqKK1K/116.jpg",
         "largeSecondImage": "../../../public/image/largeImages/115.jpg",
-        "customSecondImage": "../../../public/image/customImages/115.jpg"
+        "customSecondImage": "https://i.ibb.co/h8XT3rj/115.jpg"
       },
       "categories": [
         "series"
@@ -630,7 +630,7 @@
       "images": {
         "card": "https://i.ibb.co/bzy0CTX/117.jpg",
         "largeSecondImage": "../../../public/image/largeImages/118.jpg",
-        "customSecondImage": "../../../public/image/customImages/118.jpg"
+        "customSecondImage": "https://i.ibb.co/1Q4KLHB/118.jpg"
       },
       "categories": [
         "series"
@@ -652,7 +652,7 @@
       "images": {
         "card": "https://i.ibb.co/DYxq8LM/120.jpg",
         "largeSecondImage": "../../../public/image/largeImages/119.jpg",
-        "customSecondImage": "../../../public/image/customImages/119.jpg"
+        "customSecondImage": "https://i.ibb.co/RyYRJd8/119.jpg"
       },
       "categories": [
         "movies"
@@ -674,7 +674,7 @@
       "images": {
         "card": "https://i.ibb.co/RC0kmns/122.jpg",
         "largeSecondImage": "../../../public/image/largeImages/121.jpg",
-        "customSecondImage": "../../../public/image/customImages/121.jpg"
+        "customSecondImage": "https://i.ibb.co/28WWz9q/121.jpg"
       },
       "categories": [
         "movies"
@@ -698,7 +698,7 @@
       "images": {
         "card": "https://i.ibb.co/GR8g8V3/123.jpg",
         "largeSecondImage": "../../../public/image/largeImages/124.jpg",
-        "customSecondImage": "../../../public/image/customImages/124.jpg"
+        "customSecondImage": "https://i.ibb.co/QHpBgwp/124.jpg"
       },
       "categories": [
         "games"
@@ -721,7 +721,7 @@
       "images": {
         "card": "https://i.ibb.co/TkrWbrg/125.jpg",
         "largeSecondImage": "../../../public/image/largeImages/126.jpg",
-        "customSecondImage": "../../../public/image/customImages/126.jpg"
+        "customSecondImage": "https://i.ibb.co/8dJBrwn/126.jpg"
       },
       "categories": [
         "games"
@@ -745,7 +745,7 @@
       "images": {
         "card": "https://i.ibb.co/fSpVTcr/127.jpg",
         "largeSecondImage": "../../../public/image/largeImages/128.jpg",
-        "customSecondImage": "../../../public/image/customImages/128.jpg"
+        "customSecondImage": "https://i.ibb.co/syMQzhJ/128.jpg"
       },
       "categories": [
         "games"
@@ -768,7 +768,7 @@
       "images": {
         "card": "https://i.ibb.co/cv0NC0c/129.jpg",
         "largeSecondImage": "../../../public/image/largeImages/130.jpg",
-        "customSecondImage": "../../../public/image/customImages/130.jpg"
+        "customSecondImage": "https://i.ibb.co/mSvJR0L/130.jpg"
       },
       "categories": [
         "games"
@@ -792,7 +792,7 @@
       "images": {
         "card": "https://i.ibb.co/qMVB1Xv/131.jpg",
         "largeSecondImage": "../../../public/image/largeImages/132.jpg",
-        "customSecondImage": "../../../public/image/customImages/132.jpg"
+        "customSecondImage": "https://i.ibb.co/XVb4J0F/132.jpg"
       },
       "categories": [
         "games"
@@ -816,7 +816,7 @@
       "images": {
         "card": "https://i.ibb.co/gSjkGhF/133.jpg",
         "largeSecondImage": "../../../public/image/largeImages/134.jpg",
-        "customSecondImage": "../../../public/image/customImages/134.jpg"
+        "customSecondImage": "https://i.ibb.co/9gZYhZm/134.jpg"
       },
       "categories": [
         "series"
@@ -840,7 +840,7 @@
       "images": {
         "card": "https://i.ibb.co/sCdNgr6/150.jpg",
         "largeSecondImage": "../../../public/image/largeImages/151.jpg",
-        "customSecondImage": "../../../public/image/customImages/151.jpg"
+        "customSecondImage": "https://i.ibb.co/XWL28J1/151.jpg"
       },
       "categories": [
         "series"
@@ -862,7 +862,7 @@
       "images": {
         "card": "https://i.ibb.co/x8yMVZd/152.jpg",
         "largeSecondImage": "../../../public/image/largeImages/153.jpg",
-        "customSecondImage": "../../../public/image/customImages/153.jpg"
+        "customSecondImage": "https://i.ibb.co/WtBM4jx/153.jpg"
       },
       "categories": [
         "series"
@@ -885,7 +885,7 @@
       "images": {
         "card": "https://i.ibb.co/B4SXCj6/154.jpg",
         "largeSecondImage": "../../../public/image/largeImages/155.jpg",
-        "customSecondImage": "../../../public/image/customImages/155.jpg"
+        "customSecondImage": "https://i.ibb.co/yqj8nCF/155.jpg"
       },
       "categories": [
         "movies"
@@ -909,7 +909,7 @@
       "images": {
         "card": "https://i.ibb.co/c6WNVgy/156.jpg",
         "largeSecondImage": "../../../public/image/largeImages/157.jpg",
-        "customSecondImage": "../../../public/image/customImages/157.jpg"
+        "customSecondImage": "https://i.ibb.co/r23YJ1H/157.jpg"
       },
       "categories": [
         "series"
@@ -933,7 +933,7 @@
       "images": {
         "card": "https://i.ibb.co/Bn113JT/158.jpg",
         "largeSecondImage": "../../../public/image/largeImages/159.jpg",
-        "customSecondImage": "../../../public/image/customImages/159.jpg"
+        "customSecondImage": "https://i.ibb.co/1f14d38/159.jpg"
       },
       "categories": [
         "series"
@@ -961,7 +961,7 @@
       "images": {
         "card": "https://i.ibb.co/chdHnmr/160.webp",
         "largeSecondImage": "../../../public/image/largeImages/161.jpg",
-        "customSecondImage": "../../../public/image/customImages/161.jpg"
+        "customSecondImage": "https://i.ibb.co/cy7R7VZ/161.jpg"
       },
       "categories": [
         "movies"
@@ -989,7 +989,7 @@
       "images": {
         "card": "https://i.ibb.co/6gPPTnL/162.webp",
         "largeSecondImage": "../../../public/image/largeImages/163.jpg",
-        "customSecondImage": "../../../public/image/customImages/163.jpg"
+        "customSecondImage": "https://i.ibb.co/thjpf5V/163.jpg"
       },
       "categories": [
         "movies"
@@ -1017,7 +1017,7 @@
       "images": {
         "card": "https://i.ibb.co/GxDxdpP/164.webp",
         "largeSecondImage": "../../../public/image/largeImages/165.jpg",
-        "customSecondImage": "../../../public/image/customImages/165.jpg"
+        "customSecondImage": "https://i.ibb.co/x3v4m8D/165.jpg"
       },
       "categories": [
         "movies"
@@ -1045,7 +1045,7 @@
       "images": {
         "card": "https://i.ibb.co/hK0zrZm/166.png",
         "largeSecondImage": "../../../public/image/largeImages/167.jpg",
-        "customSecondImage": "../../../public/image/customImages/167.jpg"
+        "customSecondImage": "https://i.ibb.co/YhmzNLh/167.jpg"
       },
       "categories": [
         "movies"
@@ -1069,7 +1069,7 @@
       "images": {
         "card": "https://i.ibb.co/bKJDv97/168.png",
         "largeSecondImage": "../../../public/image/largeImages/169.jpg",
-        "customSecondImage": "../../../public/image/customImages/169.jpg"
+        "customSecondImage": "https://i.ibb.co/hs5qH9P/169.jpg"
       },
       "categories": [
         "movies"
@@ -1095,7 +1095,7 @@
       "images": {
         "card": "https://i.ibb.co/YN4Kvft/170.webp",
         "largeSecondImage": "../../../public/image/largeImages/171.jpg",
-        "customSecondImage": "../../../public/image/customImages/171.jpg"
+        "customSecondImage": "https://i.ibb.co/KVZH6YQ/171.jpg"
       },
       "categories": [
         "series"
@@ -1119,7 +1119,7 @@
       "images": {
         "card": "https://i.ibb.co/x51HTtr/172.jpg",
         "largeSecondImage": "../../../public/image/largeImages/173.jpg",
-        "customSecondImage": "../../../public/image/customImages/173.jpg"
+        "customSecondImage": "https://i.ibb.co/1GVSggc/173.jpg"
       },
       "categories": [
         "movies"
@@ -1142,7 +1142,7 @@
       "images": {
         "card": "https://i.ibb.co/SVWDwdw/174.jpg",
         "largeSecondImage": "../../../public/image/largeImages/175.jpg",
-        "customSecondImage": "../../../public/image/customImages/175.jpg"
+        "customSecondImage": "https://i.ibb.co/Xbvq7n6/175.jpg"
       },
       "categories": [
         "series"
@@ -1165,7 +1165,7 @@
       "images": {
         "card": "https://i.ibb.co/Qcr84r9/176.webp",
         "largeSecondImage": "../../../public/image/largeImages/177.jpg",
-        "customSecondImage": "../../../public/image/customImages/177.jpg"
+        "customSecondImage": "https://i.ibb.co/yyTJjMF/177.jpg"
       },
       "categories": [
         "animes"
@@ -1188,7 +1188,7 @@
       "images": {
         "card": "https://i.ibb.co/93LZHD2/178.jpg",
         "largeSecondImage": "../../../public/image/largeImages/179.jpg",
-        "customSecondImage": "../../../public/image/customImages/179.jpg"
+        "customSecondImage": "https://i.ibb.co/MfbwFsK/179.jpg"
       },
       "categories": [
         "games"
@@ -1211,7 +1211,7 @@
       "images": {
         "card": "https://i.ibb.co/qj5qcCT/180.webp",
         "largeSecondImage": "../../../public/image/largeImages/181.jpg",
-        "customSecondImage": "../../../public/image/customImages/181.jpg"
+        "customSecondImage": "https://i.ibb.co/r7p3jcy/181.jpg"
       },
       "categories": [
         "games"
@@ -1235,7 +1235,7 @@
       "images": {
         "card": "https://i.ibb.co/brMFN80/182.png",
         "largeSecondImage": "../../../public/image/largeImages/183.jpg",
-        "customSecondImage": "../../../public/image/customImages/183.jpg"
+        "customSecondImage": "https://i.ibb.co/HdjzJr5/183.jpg"
       },
       "categories": [
         "series"
@@ -1258,7 +1258,7 @@
       "images": {
         "card": "https://i.ibb.co/yBcQCkm/184.webp",
         "largeSecondImage": "../../../public/image/largeImages/185.jpg",
-        "customSecondImage": "../../../public/image/customImages/185.jpg"
+        "customSecondImage": "https://i.ibb.co/LJgKyPj/185.jpg"
       },
       "categories": [
         "series"
@@ -1281,7 +1281,7 @@
       "images": {
         "card": "https://i.ibb.co/yYcp1cV/186.jpg",
         "largeSecondImage": "../../../public/image/largeImages/187.jpg",
-        "customSecondImage": "../../../public/image/customImages/187.jpg"
+        "customSecondImage": "https://i.ibb.co/WH40PKk/187.jpg"
       },
       "categories": [
         "series"
@@ -1304,7 +1304,7 @@
       "images": {
         "card": "https://i.ibb.co/0XSht6L/188.jpg",
         "largeSecondImage": "../../../public/image/largeImages/189.jpg",
-        "customSecondImage": "../../../public/image/customImages/189.jpg"
+        "customSecondImage": "https://i.ibb.co/YXwd26Y/189.jpg"
       },
       "categories": [
         "movies"
@@ -1327,7 +1327,7 @@
       "images": {
         "card": "https://i.ibb.co/fGfcQtp/190.jpg",
         "largeSecondImage": "../../../public/image/largeImages/191.jpg",
-        "customSecondImage": "../../../public/image/customImages/191.jpg"
+        "customSecondImage": "https://i.ibb.co/56dtvSk/191.jpg"
       },
       "categories": [
         "games"
@@ -1350,7 +1350,7 @@
       "images": {
         "card": "https://i.ibb.co/mCSL968/192.jpg",
         "largeSecondImage": "../../../public/image/largeImages/193.jpg",
-        "customSecondImage": "../../../public/image/customImages/193.jpg"
+        "customSecondImage": "https://i.ibb.co/dp6ywpC/193.jpg"
       },
       "categories": [
         "games"
@@ -1372,7 +1372,7 @@
       "images": {
         "card": "https://i.ibb.co/X5mpzmN/194.jpg",
         "largeSecondImage": "../../../public/image/largeImages/195.jpg",
-        "customSecondImage": "../../../public/image/customImages/195.jpg"
+        "customSecondImage": "https://i.ibb.co/ZXdT57G/195.jpg"
       },
       "categories": [
         "games"
@@ -1394,7 +1394,7 @@
       "images": {
         "card": "https://i.ibb.co/cyLJWbd/196.jpg",
         "largeSecondImage": "../../../public/image/largeImages/197.jpg",
-        "customSecondImage": "../../../public/image/customImages/197.jpg"
+        "customSecondImage": "https://i.ibb.co/pXbNJ5X/197.jpg"
       },
       "categories": [
         "animes"
@@ -1417,7 +1417,7 @@
       "images": {
         "card": "https://i.ibb.co/tmQvrW7/198.webp",
         "largeSecondImage": "../../../public/image/largeImages/199.jpg",
-        "customSecondImage": "../../../public/image/customImages/199.jpg"
+        "customSecondImage": "https://i.ibb.co/hsPhnNQ/199.jpg"
       },
       "categories": [
         "animes"
